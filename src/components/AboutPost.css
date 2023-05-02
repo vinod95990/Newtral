@@ -1,0 +1,19 @@
+.post{
+    width: 50vw;
+    max-width: 90vw;
+    margin: 40px auto;
+}
+
+.post h1{
+    font-weight: bold;
+    color: rgb(3, 61, 169);
+    margin: 24px 0;
+    font-size: 3rem;
+}
+
+.post p{
+    line-height: 2rem;
+    color: #1e0420;
+    margin: 24px 0;
+    font-size: 1.2rem;
+}
